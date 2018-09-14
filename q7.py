@@ -6,10 +6,10 @@ import glob
 write undistorted images using camera matrix in question 6
 
 usage:
-    python calibrate.py [--debug <output path>]
+    python q7.py [--debug <output path>]
 
 default values:
-    --data:     ./data7
+    --debug:    ./output/question7
 '''
 
 

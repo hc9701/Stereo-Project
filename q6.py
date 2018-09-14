@@ -8,7 +8,7 @@ camera calibration for distorted images with chess board samples
 reads distorted images, calculates the calibration
 
 usage:
-    python calibrate.py [--debug <output path>]
+    python q6.py [--debug <output path>]
 
 default values:
     --debug:    ./output/question6
